@@ -1,10 +1,10 @@
 Sonarax Demo Application
 End User License Agreement 
 
-This non-commercial Demo License Agreement ("Agreement") is between the individual or entity that accepts it ("You"), and Exshake Ltd. ("Sonarax"). You accept this Agreement by clicking an "agree" or similar button, where this option is provided by Sonarax, or if You install, use or access the Demo (as defined below) or any part thereof. Your agreement to these terms also binds your authorized users, your company or organization. 
+This non-commercial Demo License Agreement ("Agreement") is between the individual or entity that accepts it ("You"), and Sonarax Technologies Ltd. ("Sonarax"). You accept this Agreement by clicking an "agree" or similar button, where this option is provided by Sonarax, or if You install, use or access the Demo (as defined below) or any part thereof. Your agreement to these terms also binds your authorized users, your company or organization. 
 
 Introduction.
-The Sonarax Demo Application v.2.0.0 and any other material, products, deliverables, hardware, hardware design and/or services provided by Sonarax under this Agreement (collectively, the "Demo") is licensed to You subject to the terms of this Agreement. This Agreement forms a legally binding contract between You and Sonarax in relation to your use of the Demo.
+The Sonarax Demo Application and any other material, products, deliverables, hardware, hardware design and/or services provided by Sonarax under this Agreement (collectively, the "Demo") is licensed to You subject to the terms of this Agreement. This Agreement forms a legally binding contract between You and Sonarax in relation to your use of the Demo.
 
 The Demo also includes all enhancements, modifications, additions, translations, compilations, or other software delivered to You by Sonarax hereunder and any and all printed and electronic documentation provided with the Demo.
 
@@ -22,8 +22,9 @@ Sonarax may make modifications, additions and upgrades to the Demo, including wi
 Use of the Demo by You.
 You agree to use the Demo only for purposes that are permitted by (a) this Agreement and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the State of Israel or other relevant countries).
 
+
 Term and Termination.
-The term of this Agreement shall be as of the date the Demo was installed by You and until the 1st day of June 2017, upon which this Agreement will automatically expire, unless earlier terminated in accordance with the terms set forth in this Section 4.
+
 
 If You want to terminate this Agreement, You may terminate it by uninstalling and destroying all copies of the Demo that are in the possession, custody or control of You, your authorized users and your organization.
 
@@ -70,6 +71,6 @@ Sonarax may make changes to the Agreement as it distributes new versions of the 
 
 This Agreement shall be governed by, interpreted and enforced in accordance with the laws of the State of Israel, without regard to its conflict of law principles. All actions, suits or proceedings under or related to this Agreement shall be adjudicated in the courts of Tel-Aviv, Israel, and the Parties hereby irrevocably consent to the exclusive jurisdiction and venue of such courts.
 
-All notices permitted or required hereunder shall be in writing and shall be sent by facsimile, or personal delivery at the facsimile number, or address as either Party may specify. Notices sent to Sonarax shall be addressed to Exshake Ltd., 32 Hameginim St., Haifa, Israel 3326226 and to Your address as provided by You, or to the address otherwise designated from time to time in writing by the Parties. Any notices provided will be deemed as being received on the date of transmission of facsimile, e-mail, or personal delivery unless given outside normal business hours in which case such notice shall be deemed as being given on the next business day, provided that if any such notice fails to reach You because the information provided by You or on Your behalf to Sonarax is not accurate or up to date, notice shall be deemed sufficiently delivered on the date it was sent.
+All notices permitted or required hereunder shall be in writing and shall be sent by facsimile, or personal delivery at the facsimile number, or address as either Party may specify. Notices sent to Sonarax shall be addressed to Sonarax Technologies Ltd., 2 Hapalyam St., Haifa, Israel 3309502 and to Your address as provided by You, or to the address otherwise designated from time to time in writing by the Parties. Any notices provided will be deemed as being received on the date of transmission of facsimile, e-mail, or personal delivery unless given outside normal business hours in which case such notice shall be deemed as being given on the next business day, provided that if any such notice fails to reach You because the information provided by You or on Your behalf to Sonarax is not accurate or up to date, notice shall be deemed sufficiently delivered on the date it was sent.
 
-Should You have any questions concerning this Agreement, or if You desire to contact Sonarax for any reason, please direct all correspondence to contact@sonarax.com.
+Should You have any questions concerning this Agreement, or if You desire to contact Sonarax for any reason, please direct all correspondence to contact@sonarax.com. 
